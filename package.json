@@ -1,0 +1,26 @@
+{
+  "name": "uli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "lodash.get": "^4.4.2",
+    "lodash.template": "^4.4.0",
+    "lodash.templatesettings": "^4.1.0",
+    "node-emoji": "^1.4.1"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "space": 2
+  }
+}
